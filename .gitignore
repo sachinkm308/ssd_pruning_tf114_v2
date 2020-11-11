@@ -102,7 +102,6 @@ eval_utils/
 examples/
 misc_utils/
 training_summaries/
-models/
 bounding_box_utils/
 keras_loss_function/
 ssd_encoder_decoder/
@@ -114,8 +113,10 @@ ssd300_evaluation_COCO.ipynb
 ssd300_inference.ipynb
 ssd300_training.ipynb
 weight_sampling_tutorial.ipynb
-*.py
 *.md
 *.txt
 ssd512_inference.ipynb
-*.exe
+__init__.py
+ssd7_training.py
+ssd7_training_test.py
+
