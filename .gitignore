@@ -117,6 +117,5 @@ weight_sampling_tutorial.ipynb
 *.txt
 ssd512_inference.ipynb
 __init__.py
-ssd7_training.py
 ssd7_training_test.py
 
