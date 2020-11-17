@@ -1,4 +1,8 @@
 '''
+
+Copy of keras_ssd7.py to experiment on the model required for the pruning
+
+
 A small 7-layer Keras model with SSD architecture. Also serves as a template to build arbitrary network architectures.
 
 Copyright (C) 2018 Pierluigi Ferrari
