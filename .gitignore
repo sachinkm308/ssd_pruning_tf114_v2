@@ -98,15 +98,6 @@ ENV/
 local*
 
 # Ignore sachin custom
-eval_utils/
-examples/
-misc_utils/
-training_summaries/
-bounding_box_utils/
-keras_loss_function/
-ssd_encoder_decoder/
-data_generator/
-keras_layers/
 *.h5
 ssd300_evaluation.ipynb
 ssd300_evaluation_COCO.ipynb
